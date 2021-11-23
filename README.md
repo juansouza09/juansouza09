@@ -1,4 +1,8 @@
-### Olá! Eu sou o Juan Pablo! 😄✋
+### Olá! Eu sou o Juan Pablo! 🙋🏾‍♂️
+###### • Estudante de ADS na ETEC Abdias do Nascimento
+###### • Aprendendo a desenvolver em Kotlin
+
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/JuanSouza9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_blacks_/)
