@@ -7,8 +7,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/JuanSouza9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_blacks_/)
 
-![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=juansouza09&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansouza09&layout=compact)](https://github.com/juansouza09/)
 
 
