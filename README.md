@@ -3,8 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_blacks_/)
 
 <ul>
-<li>Estudante de ADS na ETEC Abdias do Nascimento
-<li>Aprendendo a desenvolver em Kotlin
+<li>👨‍💻 Systems Analysis and Development Student at ETEC Abdias do Nascimento
+<li>🚀 I'm currently learning Kotlin and JavaScript
 </ul>
 <br/>
 
@@ -13,9 +13,9 @@
 
                                                          
 
-## Technologies:
+<h3> Technologies: </h3>
 
-<div style="display: "incle_block"><br/>
+<div style="display: "incle_block">
     <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
