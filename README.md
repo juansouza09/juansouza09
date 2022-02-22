@@ -1,23 +1,19 @@
-### Olá! Eu sou o Juan Pablo! 🙋🏾‍♂️
-###### • Estudante de ADS na ETEC Abdias do Nascimento
-###### • Aprendendo a desenvolver em Kotlin
-
-<br/>
-
+# Hi! I'm Juan Pablo! 🙋🏾‍♂️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/JuanSouza9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_blacks_/)
+
+<ul>
+<li>Estudante de ADS na ETEC Abdias do Nascimento
+<li>Aprendendo a desenvolver em Kotlin
+</ul>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansouza09&layout=compact)](https://github.com/juansouza09/)
 
 
-## Tecnologias que uso no meu dia-a-dia
+                                                         
 
-<div style="display: "incle_block"><br/>
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div><br/>
-                                                                                                                                                                                                                                                                    
-
-## Minhas Skills
+## Technologies:
 
 <div style="display: "incle_block"><br/>
     <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
