@@ -1,25 +1,31 @@
-# Hi! I'm Juan Pablo! 🙋🏾‍♂️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/JuanSouza9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_blacks_/)
 
-<ul>
-<li>👨‍💻 Systems Analysis and Development Student at ETEC Abdias do Nascimento
-<li>🚀 I'm currently learning Kotlin and JavaScript
-</ul>
-<br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Juan Pablo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansouza09&layout=compact)](https://github.com/juansouza09/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Juan+Pablo;I'm+18+years+old;I+from+Brasil,+SP;I+study+Systems+Development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+<a href="https://docs.google.com/document/d/1oVVWAtPqwQK8PJ9RZVyJPwb8ayHFuwDEY3Sfcv7USBs/edit?usp=sharing">:point_right: Resume :point_left:</a>
+ </div>
 
-                                                         
-
-<h3> Technologies: </h3>
-
-<div style="display: "incle_block">
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juansouza09&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Juan Souza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansouza09&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=juansouza09&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juansouza09&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<ul>
+<a href="www.instagram.com/iamjuansouzaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  
+  
+<div align="center">
+<a href="www.linkedin.com/in/JuanSouza9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div>
+
+  </ul>
+  </div>
