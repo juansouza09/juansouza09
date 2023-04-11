@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CI&T<br>🌱 I’m currently learning Android Kotlin<br>⚡ I like to play video games, basketball and volleyball 
+🌱 I’m currently learning Android Kotlin<br>⚡ I like to play video games, basketball and volleyball 
 <div align="center">
 <a href="https://juansouza09.github.io/juansouzadeveloper/">:point_right: Resume :point_left:</a>
 </div>
