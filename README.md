@@ -2,11 +2,11 @@
 
 ```kotlin
 var Juan = {
-  'age': 19,
+  'age': 20,
   'country': 'Brazil',
-  'city': 'São Paulo, SP',
+  'city': 'Sao Paulo, SP',
   'languages': ['Portuguese-BR', 'English'],
-  'interests': ['Design UI/UX', 'Developer Web', 'Developer Mobile'],
+  'interests': ['Design UI/UX', 'Web Development', 'Mobile Development'],
   'hobbies': ['Studies & Reading', 'Programming', 'Design', 'E-sports', 'Basketball'],
 };
 ```
